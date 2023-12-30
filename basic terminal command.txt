@@ -1,0 +1,21 @@
+ls = to list all items
+cd = change folder/diretry
+cd../ = togoback 
+mkdir = make folder/directory
+del/rm = delete folder/directory
+code . = to open vs code
+pwd = to print current directory
+mv = to rename (use btw name /) and it is also use to move files from 1 place to another
+touch = to create multiple file at single time
+git init = to make a new git repo
+git add = add file to staging area( we use . to add all file to staging area)
+git status = to check status of all files(-s for short info)
+git commit -m "messagehere" = to comit files with changes
+git log = to check recent commits(q  to exit it)
+git checkout id = to go to previous commits
+git checkout master = return back to normal version
+
+
+
+ 
+
