@@ -15,8 +15,8 @@ git log = to check recent commits(q  to exit it)
 git checkout id = to go to previous commits
 git checkout master = return back to normal version
 git branch = to see all avail branches and create a new branch
-
-
-
+git log --all --oneline --graph = to see logs of our commit
+ git branch --delete/-D = to delete a branch
+git merge = to merge different branches
  
 
