@@ -14,7 +14,8 @@ git commit -m "messagehere" = to comit files with changes
 git log = to check recent commits(q  to exit it)
 git checkout id = to go to previous commits
 git checkout master = return back to normal version
-git branch = to see all avail branches
+git branch = to see all avail branches and create a new branch
+
 
 
  
