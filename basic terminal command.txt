@@ -31,3 +31,4 @@ git stash list = to check our stash list
 git stash appy numofstash = to get back satsh
 git stash drop numofstash = to delete any satsh
 git stash clear = to delete all satsh
+git cherry-pick idofcommit = to get a particular or single change
