@@ -30,3 +30,4 @@ git stast = put our changes in stash without commiting
 git stash list = to check our stash list
 git stash appy numofstash = to get back satsh
 git stash drop numofstash = to delete any satsh
+git stash clear = to delete all satsh
