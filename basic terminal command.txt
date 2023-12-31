@@ -17,6 +17,12 @@ git checkout master = return back to normal version
 git branch = to see all avail branches and create a new branch
 git log --all --oneline --graph = to see logs of our commit
  git branch --delete/-D = to delete a branch
-git merge = to merge different branches
- git reset = to revert our changes
-
+git merge = to merge different branche
+ git reset = to revert our changes(--hard , --soft)
+git remote show origin = to check connected with git hub or not
+git reflog = to check old logs even reset ones
+git checkout head~"anu num" = to detach head and navigate
+git revert "id" = to reset commit from git without overriding but still apear in history
+(head~3..head) = setting  range
+git revert abort = to cancel a revert
+git revert --no-commit head~3.. = to revert multiple commits with single revert history
