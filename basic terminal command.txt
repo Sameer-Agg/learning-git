@@ -18,5 +18,5 @@ git branch = to see all avail branches and create a new branch
 git log --all --oneline --graph = to see logs of our commit
  git branch --delete/-D = to delete a branch
 git merge = to merge different branches
- 
+ git reset = to revert our changes
 
