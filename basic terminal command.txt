@@ -26,3 +26,4 @@ git revert "id" = to reset commit from git without overriding but still apear in
 (head~3..head) = setting  range
 git revert abort = to cancel a revert
 git revert --no-commit head~3.. = to revert multiple commits with single revert history
+git stast = put our changes in stash without commiting
